@@ -1,2 +1,2 @@
 # Farming-EDA
-Exploratory Data Analysis (EDA) on the farming dataset helps identify patterns in crop production, soil quality, weather conditions, and yield. 
+Exploratory Data Analysis (EDA) on the farming dataset helps identify patterns in crop production, soil quality, weather conditions, and yield. The analysis focuses on handling missing values, exploring distributions, correlations, and seasonal trends. Visualizations such as bar charts, scatter plots, and heatmaps reveal the impact of factors like rainfall, temperature, fertilizer use, and land area on overall productivity. 
